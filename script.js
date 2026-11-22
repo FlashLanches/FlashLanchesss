@@ -1,9 +1,9 @@
 /* ============ CONFIGURAÇÃO ============ */
 const CONFIG = {
-  whatsapp: "5592999999999",   // número da lanchonete (DDI+DDD+número)
+  whatsapp: "5592988346584",   // número da lanchonete (DDI+DDD+número)
   fee: 6,                      // taxa de entrega
   freeFrom: 70,                // frete grátis a partir de
-  pixKey: "SUA-CHAVE-PIX-AQUI",  // chave Pix cadastrada no PicPay (e-mail, +5592..., CPF ou aleatória)
+  pixKey: "45f85e9a-6df9-4474-8256-095021916bc5",  // chave Pix cadastrada no PicPay (e-mail, +5592..., CPF ou aleatória)
   pixName: "FLASH LANCHES",      // nome do recebedor: MAIÚSCULAS, sem acento (máx. 25)
   pixCity: "MANAUS"             // cidade: MAIÚSCULAS, sem acento (máx. 15)
 };
